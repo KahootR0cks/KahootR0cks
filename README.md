@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KahootR0cks
+- 👋 Hi, I’m @skidddoser
 - 👀 I’m interested in pyhton
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on discord bots
